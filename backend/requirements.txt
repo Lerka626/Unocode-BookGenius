@@ -7,6 +7,6 @@ lightgbm==4.5.0
 joblib==1.4.2
 python-dotenv==1.0.1
 requests==2.32.3
-kagglehub==0.3.8   # для скачивания датасета
+kagglehub==0.3.8
 sentence-transformers==3.4.1
-ollama==0.4.7      # или используйте requests к Ollama API
+ollama==0.4.7
